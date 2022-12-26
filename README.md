@@ -1,5 +1,5 @@
 # ue2rv
-Takes High Res screenshot and sends it to Shotgrid RV.
+Takes High Res screenshot in Unreal Engine and sends it to Shotgrid RV.
 
 ## Installation
 - Add the ue2rv.py script in one of the folders specified in the documentations here : https://docs.unrealengine.com/scripting-the-unreal-editor-using-python/#pythonenvironmentandpathsintheunrealeditor
